@@ -83,7 +83,8 @@ The PSHS school canteen suffers from severe overcrowding and slow queue processi
 
  **Step 4: Algorithmic Solution for Identified Sub-Problem**
 
-![Canteen Flowchart](flowchart.png)
+<img width="584" height="989" alt="flowchart" src="https://github.com/user-attachments/assets/6f00c50f-9216-4f40-b697-aa7cfc238ea5" />
+
 
 
 **Reflection & Explanation**
