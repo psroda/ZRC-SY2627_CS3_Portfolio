@@ -80,6 +80,15 @@ Please list possible sub-problems:
 
 ---
 
+Reflection & Explanation
+
+
+Decomposing the canteen rush helped our group avoid getting overwhelmed by the overall chaos of lunch break delays. Instead of trying to fix everything at once, breaking the situation into smaller sub-problems allowed us to create simple, targeted solutions for each issue. 
+
+Applying computational thinking made our solutions both practical and logical. Abstraction simplified the menu so students could decide quickly, while Algorithm Design gave the cashier a clear step-by-step process to calculate totals and change without errors. Additionally, Pattern Recognition helped staff notice popular items to track stock easily, and Decomposition separated the crowded counter into smooth ordering and pickup spots.
+
+---
+
  Rubrics For Grading (Total Points: 20pts)
 
 <div style="font-size: 13px; margin: 15px 0;">
