@@ -2,4 +2,4 @@
 
 [Link to zodiacPotassiumRODA](./q1/zodiacPotassiumRODA.md)
 
-[Link to HERO PPYPYP](./q1/HERO PPYPYP.py)
+[Link to theRPGHeroRODA](./q1/theRPGHeroRoda.py)
