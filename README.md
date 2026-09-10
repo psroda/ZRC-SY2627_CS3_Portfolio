@@ -4,4 +4,4 @@
 
 [Link to theRPGHeroRODA](./q1/theRPGHeroRoda.py)
 
-[Link to theRPGHeroRODA](./q1/theRPGHeroRoda.py)
+[Link to theRPGHeroRODA](./theRPGHeroRoda.py)
